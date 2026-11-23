@@ -1,0 +1,16 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+*.exe
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db
+
+# Local settings & editor directories
+.env
+.env.*
+.vscode/
+.idea/
